@@ -8,7 +8,7 @@ import (
 
 	"github.com/gobwas/ws"
 	"github.com/mailru/easygo/netpoll"
-	"github.com/vlad2095/wss/pkg/pool"
+	"github.com/morebrackets/gows/pool"
 )
 
 // Handler is a high performance websocket handler that uses netpoll with
